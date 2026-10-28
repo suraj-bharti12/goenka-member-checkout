@@ -1,0 +1,6 @@
+{
+  "name": "goenka-member-checkout",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" }
+}
